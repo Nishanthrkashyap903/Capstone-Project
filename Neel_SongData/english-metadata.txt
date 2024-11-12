@@ -1,0 +1,52 @@
+song_name,artist,genre
+Drag Me Down,One Direction,Pop
+What Makes You Beautiful,One Direction,Pop
+Shake It Off,Taylor Swift,Pop
+Night Birds,Shakatak,Funk
+Minefields,Faouzia and John Legend,Funk
+Just an Illusion,Imagination,Funk
+Titanium,David Guetta ft.Sia,Dance
+Faded,Alan Walker,Dance
+Clarity,Zedd ft.Foxes,Dance
+Stupid Love,Lady Gaga,Disco
+Save Your Tears,The Weekend and Ariana Grande,Disco
+Midnight City,M83,Disco
+
+Happier Than Ever,Billie Eilish,Rock
+Driver's License,Olivia Rodrigo,Rock
+Cardigan,Taylor Swift,Rock
+This Town,Niall Horan,Folk
+You're The One,Rhiannon Giddens,Folk
+Tariffa,Blanco White,Folk
+Violet,Joe P,Alternative Rock
+Peaceful Place,Leon Bridges,Alternative Rock
+Bright Lights,The Killers,Alternative Rock
+Unity,Dan Siegel,Jazz
+Not Here Not Now,Kurt Elling,Jazz
+Take Me As I Am,Leslie Odom Jr.,Jazz
+
+Featherweight,Fleet Foxes,Indie Folk
+A.M. Radio,The Lumineers,Indie Folk
+Don't Forget Me,Maggie Rogers,Indie Folk
+Too Late,SZA,R&B
+Stutter,Chris Brown,R&B
+Water,Tyla,R&B
+I Hear Thunder,Tab Benoit,Blues
+Blues In My DNA,Ronnie Baker Brooks,Blues
+In The Real World,Eric Bibb,Blues
+Nothing Moves Me,Broken Record,Alternative Rock
+The Jaws Of Life,Pierce The Viel,Alternative Rock
+Sick And Disgusting,Bear Tooth,Alternative Rock
+
+Call Me Little Sunshine,Ghost,Metal
+Never Dawn,Lacunacoil,Metal
+Hesitation Wound,Brat,Metal
+Good Good Things,DRAIN,Punk Rock
+Living Proof,DRAIN,Punk Rock
+That's What I Want,Lil Nas X,Punk Rock
+Caution,The Killers,Hard Rock
+Dead Inside,Muse,Hard Rock
+Cooler Than Mars,L7 The Band,Hard Rock
+Push Ups,Drake,Hip-Hop/Rap
+Enough(Miami),Cardi B,Hip-Hop/Rap
+Hiss,Megan Thee Stallion,Hip-Hop/Rap

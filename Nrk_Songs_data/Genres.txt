@@ -1,0 +1,118 @@
+English-50
+Hindi-50
+
+Genres:
+### *1. Positive High Arousal (Happy, Surprise)* -12
+
+- *English:*
+  - *Pop:*
+    - Dance-Pop
+    - Teen Pop
+  - *Funk:*
+    - Neo-Soul
+    - Funk Rock
+  - *Dance:*
+    - EDM (Electronic Dance Music)
+    - House
+  - *Disco:*
+    - Nu-Disco
+    - Euro Disco
+
+- *Hindi:*
+  - *Bollywood Pop:*
+    - Indi-Pop
+    - Bollywood Dance
+  - *Bhangra:*
+    - Punjabi Bhangra
+  - *Dance:*
+    - Bollywood Dance Numbers
+  - *Indi-Pop:*
+    - Indie Folk Pop
+
+---
+
+### *2. Positive Low Arousal (Neutral, Calm)*
+
+- *English:*
+  - *Rock:*
+    - Soft Rock
+    - Acoustic Rock
+  - *Folk:*
+    - Indie Folk
+    - Contemporary Folk
+  - *Alternative Rock:*
+    - Post-Rock
+    - College Rock
+  - *Jazz:*
+    - Smooth Jazz
+    - Vocal Jazz
+
+- *Hindi:*
+  - *Bollywood:*
+    - Romantic Bollywood
+    - Classical Bollywood
+  - *Ghazal:*
+    - Modern Ghazals
+  - *Soft Rock:*
+    - Acoustic Soft Rock
+  - *Classical Fusion:*
+    - Indian Classical Fusion
+
+---
+
+### *3. Negative Low Arousal (Sad, Disgust)*
+
+- *English:*
+  - *Indie Folk:*
+    - Folk Rock
+    - Alternative Folk
+  - *R&B:*
+    - Soul
+    - Contemporary R&B
+  - *Blues:*
+    - Southern Blues
+    - Contemporary Blues
+  - *Alternative Rock:*
+    - Emo
+    - Post-Grunge
+
+- *Hindi:*
+  - *Bollywood:*
+    - Sad Bollywood
+    - Heartbreak Bollywood
+  - *Ghazal:*
+    - Classic Ghazals
+  - *Sad Rock:*
+    - Emo Rock
+  - *Sufi:*
+    - Sufi Rock
+    - Contemporary Sufi
+
+---
+
+### *4. Negative High Arousal (Angry, Fear)*
+
+- *English:*
+  - *Metal:*
+    - Heavy Metal
+    - Thrash Metal
+  - *Punk Rock:*
+    - Pop Punk
+    - Hardcore Punk
+  - *Hard Rock:*
+    - Arena Rock
+    - Classic Rock
+  - *Hip-Hop/Rap:*
+    - Gangsta Rap
+    - Trap
+
+- *Hindi:*
+  - *Bollywood:*
+    - Angry Bollywood
+    - Action Songs
+  - *Hard Rock:*
+    - Indian Hard Rock
+  - *Hip-Hop:*
+    - Desi Hip-Hop
+  - *Rock:*
+    - Alternative Rock

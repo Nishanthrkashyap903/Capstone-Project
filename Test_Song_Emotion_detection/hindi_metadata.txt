@@ -1,0 +1,53 @@
+song_name, artist, genre
+Kesariya, Arijit Singh and Pritam, Bollywood Pop
+Pasoori, Ali Sethi and Shae Gill, Bollywood Pop
+Mehabooba, Ananya Bhat and Ravi Basrur, Bollywood Pop
+Chaand Baaliyan, Aditya A, Bollywood Pop 
+Lahore, Guru Randhawa, Punjabi Bhangra
+Suit, Guru Randhawa and Arjun, Punjabi Bhangra
+Nikle Currant, Jassi Gill and Neha Kakkar, Punjabi Bhangra
+Naacho Naacho, Vishal Mishra and Rahul Sipligunj, Bollywood Dance Numbers
+Param Sundari, Shreya Ghoshal, Bollywood Dance Numbers
+Makhna, Tanishk Bagchi and Yasser Desai and Asees Kaur, Bollywood Dance Numbers
+Husn, Anuv Jain, Indie Folk Pop
+Kasoor, Prateek Kuhad, Indie Folk Pop
+Alag Aasmaan, Anuv Jain, Indie Folk Pop
+
+Raatan Lambiyan, Jubin Nautiyal and Asees Kaur, Romantic Bollywood
+Phir Aur Kya Chahiye, Arijit Singh, Romantic Bollywood
+Tere Vaaste, Varun Jain and Sachin-Jigar and Shadab Faridi and Altamash Faridi, Romantic Bollywood
+Phir Le Aya Dil, Rekha Bhardwaj, Modern Ghazals
+Gulon Mein Rang Bhare, Arijit Singh, Modern Ghazals
+Woh Kagaz Ki Kashti, Jagjit Singh, Modern Ghazals
+Tum Ho, Mohit Chauhan and Suzanne D'Mello, Acoustic Soft Rock
+Tum Se Hi, Mohit Chauhan, Acoustic Soft Rock
+Kabira, Tochi Raina and Rekha Bhardwaj, Acoustic Soft Rock
+Aigiri Nandini, Rajalakshmee Sanjay, Indian Classical Fusion
+O Rangrez, Shreya Ghoshal and Javed Bashir, Indian Classical Fusion
+Dheemi Dheemi, Hariharan, Indian Classical Fusion
+
+Channa Mereya, Arijit Singh, Heartbreak Bollywood
+Tum Hi Ho, Arijit Singh, Sad Bollywood
+Ae Dil Hai Mushkil, Arijit Singh, Heartbreak Bollywood
+Tumko Dekha To Yeh Khayal, Jagjit Singh, Classic Ghazals
+Ranjish Hi Sahi, Mehdi Hassan, Classic Ghazals
+Hazaron Khwahishein Aisi, Jagjit Singh, Classic Ghazals
+Dooba Dooba, Mohit Chauhan, Emo Rock
+Manzar Naya, The Local Train, Emo Rock
+Main Aur Tum, Underground Authority, Emo Rock
+Maula Mere Maula, Roop Kumar Rathod, Contemporary Sufi
+Allah Ke Bande, Kailash Kher, Sufi Rock
+Bulla Ki Jaana, Rabbi Shergill, Sufi Rock
+
+BamBholle, Shreya Ghoshal and Nikhita Gandhi, Angry Bollywood
+Bhaag DK Bose, Amit Trivedi, Angry Bollywood
+Brothers Anthem, Vishal Dadlani and Shekhar Ravjiani, Angry Bollywood
+Bulleya, Pritam and Amit Mishra, Indian Hard Rock
+Zaroorat, Mithoon and Mustafa Zahid, Indian Hard Rock
+Bekhayali,  Sachet–Parampara and Sachet Tandon, Indian Hard Rock
+Haath Varthi, MC STAN and KSHMR and  Phenom, Hip-hop
+Tanha, Gravity and Outfly, Hip-hop
+NUSTA PAISA, MC Stan, Hip-hop  
+Shaakhon Ke Patte, Bombay Bandook, Alternative Rock
+Dil Hi To Hai, Khwaab, Alternative Rock
+Aaftaab, The Local Train, Alternative Rock

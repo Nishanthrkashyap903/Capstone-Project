@@ -1,0 +1,97 @@
+Song Name, PC1 (x), PC2 (y), Cluster, Artists, Genre:
+i: 0 Song: Secrets, PC1: -64.54, PC2: -5.68, Cluster: 3, Artists: ['AMARIA BB'], Genre: Funk
+i: 1 Song: The Middle, PC1: 67.08, PC2: -37.94, Cluster: 1, Artists: ['Jimmy Eat World'], Genre: Pop Punk
+i: 2 Song: Watermelon Sugar, PC1: 39.00, PC2: -25.38, Cluster: 0, Artists: ['Harry Styles'], Genre: Funk
+i: 3 Song: Dancing Queen, PC1: 93.89, PC2: -21.84, Cluster: 1, Artists: ['Abba'], Genre: Disco
+i: 4 Song: Dance The Night, PC1: 40.88, PC2: -8.58, Cluster: 1, Artists: ['Dua Lipa'], Genre: Hard Rock
+i: 5 Song: Smokin Out The Window, PC1: -0.42, PC2: -36.43, Cluster: 0, Artists: ['Silk Sonic'], Genre: Soul
+i: 6 Song: When I'm in Your Arms, PC1: -44.46, PC2: 54.70, Cluster: 2, Artists: ['Cleo Sol'], Genre: Funk
+i: 7 Song: Lose Control, PC1: 2.87, PC2: 6.14, Cluster: 0, Artists: ['MEDUZA', 'Becky Hill', 'Goodboys'], Genre: Dance
+i: 8 Song: All My Life, PC1: -18.35, PC2: -24.48, Cluster: 0, Artists: ['Lil Durk', 'J. Cole'], Genre: Hip-Hop/Rap
+i: 9 Song: Concorde, PC1: -121.56, PC2: 20.57, Cluster: 3, Artists: ['Black Country New Road'], Genre: Post-Rock
+i: 10 Song: Empty Promises, PC1: 59.01, PC2: 25.03, Cluster: 1, Artists: ['Michael Burks'], Genre: Southern Blues
+i: 11 Song: Dream A Little Dream Of Me, PC1: -80.41, PC2: -37.83, Cluster: 3, Artists: ['Ella Fitzgerald'], Genre: Vocal Jazz
+i: 12 Song: Master of Puppets, PC1: 37.58, PC2: -16.67, Cluster: 0, Artists: ['Metallica'], Genre: Thrash Metal
+i: 13 Song: Misery Business, PC1: 95.55, PC2: 49.76, Cluster: 1, Artists: ['Paramore'], Genre: Emo
+i: 14 Song: Breezin, PC1: -29.53, PC2: -5.68, Cluster: 2, Artists: ['George Benson'], Genre: Smooth Jazz
+i: 15 Song: Calm Down, PC1: 23.79, PC2: 26.89, Cluster: 2, Artists: ['Rema', 'Selena Gomez'], Genre: Acoustic Rock
+i: 16 Song: Paint The Town Red, PC1: -22.08, PC2: -17.67, Cluster: 0, Artists: ['Doja Cat'], Genre: Hip-Hop/Rap
+i: 17 Song: Deep in Love, PC1: -100.02, PC2: 5.28, Cluster: 3, Artists: ['Bonny Light Horseman'], Genre: Folk Rock
+i: 18 Song: Ends of the Earth, PC1: -36.42, PC2: -31.12, Cluster: 0, Artists: ['Lord Huron'], Genre: Indie Folk
+i: 19 Song: Kill Bill, PC1: -50.72, PC2: 56.00, Cluster: 2, Artists: ['SZA'], Genre: Contemporary R&B
+i: 20 Song: Run To The Hills, PC1: 94.49, PC2: 50.54, Cluster: 1, Artists: ['Iron Maiden'], Genre: Heavy Metal
+i: 21 Song: Rasputin, PC1: 19.16, PC2: 7.56, Cluster: 0, Artists: ['Boney M'], Genre: Disco
+i: 22 Song: The Only Exception, PC1: -14.42, PC2: 16.84, Cluster: 2, Artists: ['Paramore'], Genre: Emo
+i: 23 Song: Wake Me Up, PC1: -98.99, PC2: 10.35, Cluster: 3, Artists: ['Avicii'], Genre: Dance
+i: 24 Song: Zombie, PC1: 42.35, PC2: 38.44, Cluster: 1, Artists: ['Bad Wolves'], Genre: Post-Grunge
+i: 25 Song: Anti Hero, PC1: -84.04, PC2: -14.78, Cluster: 3, Artists: ['Taylor Swift'], Genre: Alternative Folk
+i: 26 Song: Free Mind, PC1: -48.04, PC2: 11.06, Cluster: 2, Artists: ['Tems'], Genre: Soul
+i: 27 Song: Cruel Summer, PC1: 54.62, PC2: 52.82, Cluster: 1, Artists: ['Taylor Swift'], Genre: Hard Rock
+i: 28 Song: DON'T YOU WORRY, PC1: 35.17, PC2: 15.96, Cluster: 1, Artists: ['Black Eyed Peas', 'Shakira', 'David Guetta'], Genre: Dance
+i: 29 Song: Songbird, PC1: -123.27, PC2: -17.95, Cluster: 3, Artists: ['Fleetwood Mac'], Genre: Contemporary Folk
+i: 30 Song: Call Me A Fool, PC1: -3.20, PC2: 19.82, Cluster: 2, Artists: ['Valerie June'], Genre: Southern Blues
+i: 31 Song: Someone You Loved, PC1: -94.75, PC2: -4.06, Cluster: 3, Artists: ['Lewis Capaldi'], Genre: Soft Rock
+i: 32 Song: The New, PC1: -144.41, PC2: 7.15, Cluster: 3, Artists: ['Interpol'], Genre: College Rock
+i: 33 Song: Angel Of Death, PC1: 28.03, PC2: 90.80, Cluster: 2, Artists: ['Slayer'], Genre: Thrash Metal
+i: 34 Song: As It Was, PC1: 51.74, PC2: 52.71, Cluster: 1, Artists: ['Harry Styles'], Genre: Soft Rock
+i: 35 Song: Barbie World, PC1: -0.56, PC2: -45.83, Cluster: 0, Artists: ['Nicki Minaj', 'Ice Spice'], Genre: Hard Rock
+i: 36 Song: Fat Lip, PC1: 77.38, PC2: -21.67, Cluster: 1, Artists: ['Sum 41'], Genre: Pop Punk
+i: 37 Song: All The Things Lost, PC1: -91.99, PC2: -6.99, Cluster: 3, Artists: ['MS MR'], Genre: Folk Rock
+i: 38 Song: Rise Above, PC1: 6.91, PC2: -11.75, Cluster: 0, Artists: ['Black Flag'], Genre: Hardcore Punk
+i: 39 Song: Georgia On My Mind, PC1: -2.36, PC2: 8.22, Cluster: 2, Artists: ['Ray Charles'], Genre: Southern Blues
+i: 40 Song: Rich Flex, PC1: -36.60, PC2: 38.51, Cluster: 2, Artists: ['Drake', '21 Savage'], Genre: Hip-Hop/Rap
+i: 41 Song: Feeling Good, PC1: -57.96, PC2: -36.20, Cluster: 3, Artists: ['Michael Buble'], Genre: Vocal Jazz
+i: 42 Song: Lover, PC1: -79.06, PC2: -43.91, Cluster: 3, Artists: ['Taylor Swift'], Genre: Pop
+i: 43 Song: Bread Song, PC1: -31.14, PC2: 19.30, Cluster: 2, Artists: ['Black Country New Road'], Genre: Post-Rock
+i: 44 Song: Perfect, PC1: 34.18, PC2: -56.01, Cluster: 0, Artists: ['Ed Sheeran'], Genre: Acoustic Rock
+i: 45 Song: Diet Pepsi, PC1: 1.19, PC2: -19.03, Cluster: 0, Artists: ['Addison Rae'], Genre: Pop
+i: 46 Song: Neon Moon, PC1: -28.84, PC2: -27.56, Cluster: 0, Artists: ['Cigarettes After Sex', 'Nikki Lane'], Genre: Indie Folk
+i: 47 Song: Cheri Cheri Lady, PC1: -10.68, PC2: 1.12, Cluster: 2, Artists: ['Modern Talking'], Genre: Disco
+i: 48 Song: Levitating, PC1: 64.99, PC2: -15.55, Cluster: 1, Artists: ['Dua Lipa'], Genre: Pop
+i: 49 Song: Clarity, PC1: -7.63, PC2: 7.99, Cluster: 2, Artists: ['Zedd ft.Foxes'], Genre: Dance
+i: 50 Song: The Jaws Of Life, PC1: 36.29, PC2: -28.42, Cluster: 0, Artists: ['Pierce The Viel'], Genre: Alternative Rock
+i: 51 Song: Happier Than Ever, PC1: -73.91, PC2: 42.77, Cluster: 3, Artists: ['Billie Eilish'], Genre: Rock
+i: 52 Song: Stupid Love, PC1: 59.66, PC2: -2.40, Cluster: 1, Artists: ['Lady Gaga'], Genre: Disco
+i: 53 Song: Sick And Disgusting, PC1: 101.87, PC2: -4.18, Cluster: 1, Artists: ['Bear Tooth'], Genre: Alternative Rock
+i: 54 Song: What Makes You Beautiful, PC1: 72.96, PC2: 4.82, Cluster: 1, Artists: ['One Direction'], Genre: Pop
+i: 55 Song: Cardigan, PC1: -93.73, PC2: 22.37, Cluster: 3, Artists: ['Taylor Swift'], Genre: Rock
+i: 56 Song: Night Birds, PC1: -68.72, PC2: 2.84, Cluster: 3, Artists: ['Shakatak'], Genre: Funk
+i: 57 Song: Take Me As I Am, PC1: -29.20, PC2: -18.78, Cluster: 0, Artists: ['Leslie Odom Jr.'], Genre: Jazz
+i: 58 Song: Faded, PC1: 37.10, PC2: -28.81, Cluster: 0, Artists: ['Alan Walker'], Genre: Dance
+i: 59 Song: Not Here Not Now, PC1: 8.54, PC2: -18.84, Cluster: 0, Artists: ['Kurt Elling'], Genre: Jazz
+i: 60 Song: Midnight City, PC1: -14.73, PC2: -12.97, Cluster: 0, Artists: ['M83'], Genre: Disco
+i: 61 Song: Violet, PC1: 62.50, PC2: -1.12, Cluster: 1, Artists: ['Joe P'], Genre: Alternative Rock
+i: 62 Song: Nothing Moves Me, PC1: 26.39, PC2: -23.87, Cluster: 0, Artists: ['Broken Record'], Genre: Alternative Rock
+i: 63 Song: Driver's License, PC1: -55.89, PC2: 30.86, Cluster: 2, Artists: ['Olivia Rodrigo'], Genre: Rock
+i: 64 Song: Dead Inside, PC1: 26.38, PC2: -20.23, Cluster: 0, Artists: ['Muse'], Genre: Hard Rock
+i: 65 Song: Enough(Miami), PC1: -0.79, PC2: 25.08, Cluster: 2, Artists: ['Cardi B'], Genre: Hip-Hop/Rap
+i: 66 Song: Don't Forget Me, PC1: -20.08, PC2: -22.62, Cluster: 0, Artists: ['Maggie Rogers'], Genre: Indie Folk
+i: 67 Song: Good Good Things, PC1: 101.19, PC2: -26.86, Cluster: 1, Artists: ['DRAIN'], Genre: Punk Rock
+i: 68 Song: You're The One, PC1: 37.84, PC2: 6.96, Cluster: 1, Artists: ['Rhiannon Giddens'], Genre: Folk
+i: 69 Song: Living Proof, PC1: 70.51, PC2: 14.71, Cluster: 1, Artists: ['DRAIN'], Genre: Punk Rock
+i: 70 Song: Blues In My DNA, PC1: 55.51, PC2: -33.32, Cluster: 1, Artists: ['Ronnie Baker Brooks'], Genre: Blues
+i: 71 Song: In The Real World, PC1: -68.00, PC2: -4.73, Cluster: 3, Artists: ['Eric Bibb'], Genre: Blues
+i: 72 Song: A.M. Radio, PC1: -45.60, PC2: 29.14, Cluster: 2, Artists: ['The Lumineers'], Genre: Indie Folk
+i: 73 Song: Water, PC1: 28.48, PC2: 37.87, Cluster: 2, Artists: ['Tyla'], Genre: R&B
+i: 74 Song: Shake It Off, PC1: 55.68, PC2: 36.60, Cluster: 1, Artists: ['Taylor Swift'], Genre: Pop
+i: 75 Song: That's What I Want, PC1: 29.20, PC2: -29.16, Cluster: 0, Artists: ['Lil Nas X'], Genre: Punk Rock
+i: 76 Song: Bright Lights, PC1: 92.96, PC2: 49.83, Cluster: 1, Artists: ['The Killers'], Genre: Alternative Rock
+i: 77 Song: Never Dawn, PC1: 55.42, PC2: 25.05, Cluster: 1, Artists: ['Lacunacoil'], Genre: Metal
+i: 78 Song: Just an Illusion, PC1: 12.85, PC2: -12.64, Cluster: 0, Artists: ['Imagination'], Genre: Funk
+i: 79 Song: Peaceful Place, PC1: 44.56, PC2: -7.79, Cluster: 1, Artists: ['Leon Bridges'], Genre: Alternative Rock
+i: 80 Song: Stutter, PC1: 20.45, PC2: -29.23, Cluster: 0, Artists: ['Chris Brown'], Genre: R&B
+i: 81 Song: Hesitation Wound, PC1: 106.73, PC2: -22.34, Cluster: 1, Artists: ['Brat'], Genre: Metal
+i: 82 Song: I Hear Thunder, PC1: -0.01, PC2: -38.33, Cluster: 0, Artists: ['Tab Benoit'], Genre: Blues
+i: 83 Song: Too Late, PC1: -9.49, PC2: 10.09, Cluster: 2, Artists: ['SZA'], Genre: R&B
+i: 84 Song: Titanium, PC1: 58.36, PC2: 5.88, Cluster: 1, Artists: ['David Guetta ft.Sia'], Genre: Dance
+i: 85 Song: This Town, PC1: -76.20, PC2: 2.95, Cluster: 3, Artists: ['Niall Horan'], Genre: Folk
+i: 86 Song: Tariffa, PC1: -111.19, PC2: 5.34, Cluster: 3, Artists: ['Blanco White'], Genre: Folk
+i: 87 Song: Caution, PC1: 62.76, PC2: -30.56, Cluster: 1, Artists: ['The Killers'], Genre: Hard Rock
+i: 88 Song: Save Your Tears, PC1: -71.87, PC2: 2.46, Cluster: 3, Artists: ['The Weekend', 'Ariana Gr', 'e'], Genre: Disco
+i: 89 Song: Drag Me Down, PC1: 33.25, PC2: 15.00, Cluster: 1, Artists: ['One Direction'], Genre: Pop
+i: 90 Song: Featherweight, PC1: -70.73, PC2: -8.61, Cluster: 3, Artists: ['Fleet Foxes'], Genre: Indie Folk
+i: 91 Song: Minefields, PC1: -29.46, PC2: 39.93, Cluster: 2, Artists: ['Faouzia', 'John Legend'], Genre: Funk
+i: 92 Song: Unity, PC1: -121.15, PC2: -26.37, Cluster: 3, Artists: ['Dan Siegel'], Genre: Jazz
+i: 93 Song: Call Me Little Sunshine, PC1: 75.73, PC2: -30.21, Cluster: 1, Artists: ['Ghost'], Genre: Metal
+i: 94 Song: Cooler Than Mars, PC1: 105.42, PC2: -26.94, Cluster: 1, Artists: ['L7 The B', ''], Genre: Hard Rock
+i: 95 Song: Push Ups, PC1: 38.72, PC2: -4.24, Cluster: 0, Artists: ['Drake'], Genre: Hip-Hop/Rap

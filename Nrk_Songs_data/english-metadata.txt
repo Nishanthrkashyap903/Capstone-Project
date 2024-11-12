@@ -1,0 +1,53 @@
+song_name, artist, genre
+Levitating, Dua Lipa, Pop 
+Lover, Taylor Swift, Pop 
+Diet Pepsi, Addison Rae, Pop
+When I'm in Your Arms, Cleo Sol, Funk
+Secrets, AMARIA BB, Funk
+Watermelon Sugar, Harry Styles, Funk
+Wake Me Up, Avicii, Dance
+DON'T YOU WORRY, Black Eyed Peas and Shakira and David Guetta, Dance
+Lose Control, MEDUZA and Becky Hill and Goodboys, Dance
+Cheri Cheri Lady, Modern Talking, Disco 
+Dancing Queen, Abba, Disco
+Rasputin, Boney M, Disco 
+
+Perfect, Ed Sheeran, Acoustic Rock
+Someone You Loved, Lewis Capaldi, Soft Rock
+As It Was, Harry Styles, Soft Rock
+Calm Down, Rema and Selena Gomez, Acoustic Rock
+Songbird, Fleetwood Mac, Contemporary Folk
+Neon Moon, Cigarettes After Sex and Nikki Lane, Indie Folk
+Ends of the Earth, Lord Huron, Indie Folk
+Concorde, Black Country New Road, Post-Rock
+Bread Song, Black Country New Road, Post-Rock
+The New, Interpol, College Rock
+Breezin, George Benson, Smooth Jazz
+Dream A Little Dream Of Me, Ella Fitzgerald, Vocal Jazz
+Feeling Good, Michael Buble, Vocal Jazz
+
+Anti Hero, Taylor Swift, Alternative Folk
+All The Things Lost, MS MR, Folk Rock
+Deep in Love, Bonny Light Horseman, Folk Rock
+Kill Bill, SZA, Contemporary R&B
+Free Mind, Tems, Soul
+Smokin Out The Window, Silk Sonic, Soul
+Empty Promises, Michael Burks, Southern Blues
+Call Me A Fool, Valerie June, Southern Blues
+Georgia On My Mind, Ray Charles, Southern Blues
+Misery Business, Paramore, Emo
+Zombie, Bad Wolves, Post-Grunge
+The Only Exception, Paramore, Emo
+
+Master of Puppets, Metallica, Thrash Metal
+Run To The Hills, Iron Maiden, Heavy Metal
+Angel Of Death, Slayer, Thrash Metal
+The Middle, Jimmy Eat World, Pop Punk
+Rise Above, Black Flag, Hardcore Punk
+Fat Lip, Sum 41, Pop Punk
+Barbie World, Nicki Minaj and Ice Spice, Hard Rock
+Dance The Night, Dua Lipa, Hard Rock
+Cruel Summer, Taylor Swift, Hard Rock
+Paint The Town Red, Doja Cat, Hip-Hop/Rap
+Rich Flex, Drake and 21 Savage, Hip-Hop/Rap
+All My Life, Lil Durk and J. Cole, Hip-Hop/Rap

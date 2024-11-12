@@ -1,0 +1,49 @@
+Name,Artist,Genre
+GallanGoodiyaan,Sukhwinder Singh and Shankar Mahadevan,Bollywood Pop
+Ranjha,Jasleen Royal and B.Praak,Bollywood Pop
+LutGaye,Jubin Nautiyal and Tanishk Baagchi,Bollywood Pop
+GucciGabru,Harkirat Sangha and Starboy X,Bhangra
+Kamli,Mankirt Aulakh ft.Roopi Gill,Bhangra
+Picka,Dilpreet Dhillon,Bhangra
+Ghungroo,Arijit Singh and Shilpa Rao,Dance
+CocaCola,Neha Kakkar and Tony Kakkar and Tanishk Bagchi,Dance
+PaaniPaani,Badshah and Aastha Gill,Dance
+NainaTaHeere,Guru Randhawa and Asees Kaur,Indie Pop
+KhoGayeHumKahan,Jasleen Royal and Prateek Kuhad,Indie Pop
+RataanLambiyaan,Tanishk Bagchi and Jubin Nautiyal and Asees Kaur,Indie Pop
+Heeriye,Jasleen Royal ft.Arijit Singh,Bollywood
+RabbaJanda,Jubin Nautiyal,Bollywood
+PyaarHotaKayiBaarHai,Arijit Singh,Bollywood
+AisaLagtaHain,Kavya Limaye and Paras Nath and Deepak Pandit,Ghazal
+SabKuchTha,Talat Aziz,Ghazal
+MainJahaanRahoon,Rahat Fateh Ali Khan,Ghazal
+TumJaiseHo,Utsavi Jha,Soft Rock
+BepanahHai,Aviral Singh and Harsh Aviral,Soft Rock
+BarseMoreNaina,Khosla Raghu,Soft Rock
+NamoNamo,Amit Trivedi,Classical Fusion
+GulonMainRangBhare,Ali Sethi,Classical Fusion
+AfreenAfreen,Rahat Fateh Ali Khan and Momina Mumtashein,Classical Fusion
+AgarTumSaathHo,Arijit Singh and Alka Yagnik,Bollywood
+PhirBhiTumkoChaahunga,Arijit Singh and Shashaa Tirupati,Bollywood
+MainRahoonYaNaRahoon,Armaan Malik,Bollywood
+DardPattharonKo,Papon,Ghazal
+HothonSeChooloTum,Jagjit Singh,Ghazal
+AajJaaneKiZidNaKaro,Farida Khannum,Ghazal
+TeriMitti,B Praak and Arko,Sad Rock
+TujheKitnaChahneLage,Mithoon Feat. Arijit Singh,Sad Rock
+Humdard,Arijit Singh,Sad Rock
+LaghzishEMastana,Abida Parveen and Shafqat Amanat Ali,Sufi
+MastQalandar,Sami Yusuf and Rahat Fateh Ali Khan,Sufi
+Haal-E-Dil,Rahat Fateh Ali Khan,Sufi
+ArjanVailly,Bhupinder B and Manan B,Bollywood
+Zinda,Shankar Mahadevan,Bollywood
+JhoomeJoPathaan,Arijit Singh and Sukriti Kakkar,Bollywood
+ChooLo,The Local Train,Hard Rock
+Gumaan,Young Stunners Ft. Talha Anjum,Hard Rock
+DilMere,The Local Train,Hard Rock
+KuleyKuley,Yo Yo Honey Singh and Apache Indian,Hip-hop
+TryMe,Karan Aujla and Ikky,Hip-hop
+StillRollin,Shubh,Hip-hop
+Bawre,Hriday,Alternative Rock
+KuchDin,Prateek Kuhad,Alternative Rock
+Gajra,Aditya A,Alternative Rock

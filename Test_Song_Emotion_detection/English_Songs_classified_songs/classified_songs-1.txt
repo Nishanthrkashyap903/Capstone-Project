@@ -1,0 +1,50 @@
+Song Name, PC1 (x), PC2 (y), Cluster:
+Song: Secrets.mp3, PC1: -115.36, PC2: -42.43, Cluster: 2
+Song: The Middle.mp3, PC1: 341.16, PC2: 26.96, Cluster: 1
+Song: Watermelon Sugar.mp3, PC1: 177.23, PC2: 20.81, Cluster: 3
+Song: Dancing Queen.mp3, PC1: 468.41, PC2: 41.90, Cluster: 1
+Song: Fatlip.mp3, PC1: 503.39, PC2: 19.91, Cluster: 1
+Song: Dance The Night.mp3, PC1: 287.01, PC2: 14.08, Cluster: 1
+Song: Smokin Out The Window.mp3, PC1: 281.65, PC2: -34.04, Cluster: 1
+Song: When I'm in Your Arms.mp3, PC1: -370.70, PC2: 23.35, Cluster: 2
+Song: Lose Control.mp3, PC1: 471.50, PC2: -41.45, Cluster: 1
+Song: All My Life.mp3, PC1: 271.38, PC2: -48.01, Cluster: 1
+Song: Concorde.mp3, PC1: -348.25, PC2: -66.74, Cluster: 2
+Song: Empty Promises.mp3, PC1: 205.80, PC2: 50.11, Cluster: 3
+Song: Dream A Little Dream Of Me.mp3, PC1: -265.72, PC2: -47.24, Cluster: 2
+Song: Master of Puppets.mp3, PC1: 900.58, PC2: -67.46, Cluster: 1
+Song: Misery Business.mp3, PC1: 363.30, PC2: 73.62, Cluster: 1
+Song: Breezin.mp3, PC1: -220.20, PC2: 5.33, Cluster: 2
+Song: Calm Down.mp3, PC1: -171.30, PC2: 63.75, Cluster: 2
+Song: Paint The Town Red.mp3, PC1: 10.34, PC2: -16.92, Cluster: 3
+Song: Deep in Love.mp3, PC1: -584.37, PC2: -17.27, Cluster: 0
+Song: Ends of the Earth.mp3, PC1: -478.74, PC2: 27.27, Cluster: 0
+Song: Kill Bill.mp3, PC1: -41.94, PC2: -19.34, Cluster: 3
+Song: Run To The Hills.mp3, PC1: 254.58, PC2: 86.99, Cluster: 1
+Song: Rasputin.mp3, PC1: 247.95, PC2: 1.61, Cluster: 1
+Song: The Only Exception.mp3, PC1: 62.09, PC2: -8.05, Cluster: 3
+Song: Wake Me Up.mp3, PC1: 413.58, PC2: -134.27, Cluster: 1
+Song: Zombie.mp3, PC1: -35.18, PC2: 67.96, Cluster: 3
+Song: Anti Hero.mp3, PC1: -3.55, PC2: -76.90, Cluster: 3
+Song: Free Mind.mp3, PC1: -311.09, PC2: 6.07, Cluster: 2
+Song: Cruel Summer.mp3, PC1: -118.54, PC2: 93.32, Cluster: 2
+Song: DON'T YOU WORRY.mp3, PC1: -67.52, PC2: 56.88, Cluster: 3
+Song: Songbird.mp3, PC1: -637.63, PC2: -37.26, Cluster: 0
+Song: Call Me A Fool.mp3, PC1: -289.09, PC2: 50.01, Cluster: 2
+Song: Someone You Loved.mp3, PC1: -271.98, PC2: -52.64, Cluster: 2
+Song: The New.mp3, PC1: -649.67, PC2: -49.99, Cluster: 0
+Song: Angel Of Death.mp3, PC1: 383.34, PC2: 14.17, Cluster: 1
+Song: As It Was.mp3, PC1: -225.07, PC2: 104.23, Cluster: 2
+Song: Barbie World.mp3, PC1: 151.61, PC2: -19.47, Cluster: 3
+Song: All The Things Lost.mp3, PC1: -586.03, PC2: -9.46, Cluster: 0
+Song: Rise Above.mp3, PC1: 105.54, PC2: 2.65, Cluster: 3
+Song: Georgia On My Mind.mp3, PC1: 148.49, PC2: -6.54, Cluster: 3
+Song: Rich Flex.mp3, PC1: 115.04, PC2: -32.45, Cluster: 3
+Song: Feeling Good.mp3, PC1: -134.23, PC2: -41.23, Cluster: 2
+Song: Lover.mp3, PC1: -153.24, PC2: -60.97, Cluster: 2
+Song: Bread Song.mp3, PC1: -256.93, PC2: 17.20, Cluster: 2
+Song: Perfect.mp3, PC1: 124.52, PC2: 14.67, Cluster: 3
+Song: Diet Pepsi.mp3, PC1: 37.37, PC2: 3.68, Cluster: 3
+Song: Neon Moon.mp3, PC1: -40.79, PC2: -21.44, Cluster: 3
+Song: Cheri Cheri Lady.mp3, PC1: -215.99, PC2: 26.59, Cluster: 2
+Song: Levitating.mp3, PC1: 267.27, PC2: 38.45, Cluster: 1

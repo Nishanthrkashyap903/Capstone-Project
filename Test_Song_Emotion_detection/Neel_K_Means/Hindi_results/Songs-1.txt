@@ -1,0 +1,49 @@
+Song Name, PC1 (x), PC2 (y), Cluster:
+Song: Bulla Ki Jaana, PC1: -707.25, PC2: -48.16, Cluster: 3
+Song: Ranjish Hi Sahi, PC1: 510.30, PC2: 180.17, Cluster: 0
+Song: Bhaag DK Bose, PC1: 2037.78, PC2: -89.85, Cluster: 2
+Song: Chaand Baaliyan, PC1: -1021.89, PC2: 142.20, Cluster: 3
+Song: Brothers Anthem, PC1: 16.35, PC2: -104.70, Cluster: 0
+Song: Tumko Dekha To Yeh Khayal, PC1: -2510.07, PC2: -722.15, Cluster: 1
+Song: Param Sundari, PC1: 2545.42, PC2: -71.19, Cluster: 2
+Song: Main Aur Tum, PC1: -1794.18, PC2: 100.23, Cluster: 1
+Song: Phir Aur Kya Chahiye, PC1: -979.32, PC2: 213.73, Cluster: 3
+Song: Makhna, PC1: 2728.72, PC2: 51.45, Cluster: 2
+Song: Aigiri Nandini, PC1: 927.90, PC2: -173.47, Cluster: 0
+Song: Allah Ke Bande, PC1: -991.94, PC2: 207.33, Cluster: 3
+Song: Gulon Mein Rang Bhare, PC1: 460.38, PC2: 288.98, Cluster: 0
+Song: Naacho Naacho, PC1: 3268.43, PC2: -9.78, Cluster: 2
+Song: Bulleya, PC1: 754.78, PC2: 117.66, Cluster: 0
+Song: Raatan Lambiyan, PC1: 626.90, PC2: -13.83, Cluster: 0
+Song: Kasoor, PC1: -8.47, PC2: 8.87, Cluster: 0
+Song: Tum Se Hi, PC1: 595.50, PC2: 11.19, Cluster: 0
+Song: Kesariya, PC1: -1720.79, PC2: 108.41, Cluster: 1
+Song: Tum Ho, PC1: -744.31, PC2: 189.77, Cluster: 3
+Song: Kabira, PC1: -511.49, PC2: 160.12, Cluster: 3
+Song: Nikle Currant, PC1: 2673.08, PC2: -332.66, Cluster: 2
+Song: Suit, PC1: 1338.94, PC2: -163.26, Cluster: 0
+Song: Bekhayali, PC1: 1189.44, PC2: 44.09, Cluster: 0
+Song: Lahore, PC1: 623.70, PC2: -306.95, Cluster: 0
+Song: O Rangrez, PC1: -448.95, PC2: 30.00, Cluster: 3
+Song: Alag Aasmaan, PC1: -1569.94, PC2: -329.64, Cluster: 1
+Song: Tere Vaaste, PC1: 335.11, PC2: 450.31, Cluster: 0
+Song: Dooba Dooba, PC1: 719.13, PC2: -1.05, Cluster: 0
+Song: Tum Hi Ho, PC1: -1003.49, PC2: 20.67, Cluster: 3
+Song: Aaftaab, PC1: -2159.36, PC2: -57.30, Cluster: 1
+Song: BamBholle, PC1: 2638.36, PC2: -159.03, Cluster: 2
+Song: Woh Kagaz Ki Kashti, PC1: -2183.46, PC2: -156.22, Cluster: 1
+Song: Haath Varthi, PC1: 1719.01, PC2: -48.95, Cluster: 2
+Song: Ae Dil Hai Mushkil, PC1: 1855.89, PC2: 79.80, Cluster: 2
+Song: Phir Le Aya Dil, PC1: -1766.51, PC2: 101.17, Cluster: 1
+Song: Hazaron Khwahishein Aisi, PC1: -2409.69, PC2: -405.33, Cluster: 1
+Song: Husn, PC1: -1093.75, PC2: 154.75, Cluster: 3
+Song: Maula Mere Maula, PC1: -538.54, PC2: -13.93, Cluster: 3
+Song: Mehabooba, PC1: -2556.94, PC2: 171.64, Cluster: 1
+Song: Dil Hi To Hai, PC1: -2905.86, PC2: -59.35, Cluster: 1
+Song: Dheemi Dheemi, PC1: -638.57, PC2: 302.52, Cluster: 3
+Song: Channa Mereya, PC1: 2038.29, PC2: 207.16, Cluster: 2
+Song: Tanha, PC1: -1922.80, PC2: -132.28, Cluster: 1
+Song: Pasoori, PC1: 2261.02, PC2: 18.34, Cluster: 2
+Song: NUSTA PAISA, PC1: 3185.99, PC2: -171.72, Cluster: 2
+Song: Zaroorat, PC1: -512.19, PC2: 32.97, Cluster: 3
+Song: Manzar Naya, PC1: -2350.67, PC2: 177.24, Cluster: 1
